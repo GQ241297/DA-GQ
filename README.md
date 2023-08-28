@@ -14,13 +14,14 @@ En la primera estapa del proyecto definicimos el cese a analizar según su compo
 
 ## Variables a utilizar
 
-### 1. Planilla:
-  * Base de colaboradores y el area de donde pertenecen desde el 2018 al 2021 
-  * Es el archivo base desde donde se trabajara
-### 2. Entrevistas Ceses
-  * Reporte de Encuestas hechas a cesados en el proceso de salida de la empresa
-  * Se utilian la variables motivo de cese, antiguedad y tipo de cese
-### 3. Programa de mejora
+### Part I: Exploring data in the PostgreSQL database using the SQ language:
+  * In this topic I extract of database and load in postgress
+  * I wrote some queries in SQL that allowed me to find out how the database is composed
+  * In the file part1-2 are that queries
+### Part II: Preparation of flat file data for export to other tools
+  * I wrote a query to extract the transaction data from the custshop database.
+  * I created a one table that store the preparation of data with name "customer_shopping"
+### Part III: Creating a data model with Excel Power Quer
   * Base de colaboradores que entraron al programa de mejora por bajo desempeño o alguna indiciplina.
   * Nro de veces que entro al prorama de mejora
 ### 4. Memorandum
