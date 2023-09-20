@@ -9,7 +9,7 @@ For this project. I use a database of kaggle and I change some parts of the data
 ### Part I: Exploring data in the PostgreSQL database using the SQ language:
   * In this topic I extract of database and load in postgress
   * I wrote some queries in SQL that allowed me to find out how the database is composed
-  * In the file [part1-2]("https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql") are that querie
+  * In the file [part1-2](https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql) are that querie
 ### Part II: Preparation of flat file data for export to other tools
   * I wrote a query to extract the transaction data from the custshop database.
   * I created a one table that store the preparation of data with name "customer_shopping"
