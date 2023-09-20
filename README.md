@@ -34,11 +34,11 @@ For this project. I use a database of Kaggle and I change some parts of the data
   * In the following charts I wanted to create graphics different from the conventional ones to increase my skills in graphic design.
     [![graficos-4.png](https://i.postimg.cc/WbDF0Mm7/graficos-4.png)](https://postimg.cc/D8TwT4MW)
     [![grafico-5.png](https://i.postimg.cc/rmnsrmKb/grafico-5.png)](https://postimg.cc/ygR7q7hX)
-  * This can be found in the file [Proyecto Data Model.xlsx]([https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql](https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx)https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx)
+  * This can be found in the file [Proyecto Data Model]([https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql](https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx)https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx)
 ### Part V: Price-volume analysis based on a single statement
   * I made an analysis based on the following statement
     `Sales of the "Books" category in the "Forum Istanbul" shopping center decreased slightly by 1.6% in 2022 compared to the previous year's sales. However, the sales team claims that in 2022 the number of books sold actually increased compared to the previous year.`
   * I verify if the statement is correct and explain why sales would have declined despite more units being sold in 2022
-  * This analysis can be found in the file [Proyecto Data Model.xlsx]([https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql](https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx)https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx) on sheet 4.
+  * This analysis can be found in the file [Proyecto Data Model]([https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql](https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx)https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx) on sheet 4.
 
 
