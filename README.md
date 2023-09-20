@@ -1,24 +1,25 @@
-# Proyecto Employee Turnover
+# Data Analyst Project on a Customer Shopping Dataset - Retail Sales Data
 
 ## Description
 
-For this project. I use a database of kaggle and I change some parts of the database. In this case I use the database Cutshop. It´s a database about the most important sales to shopping malls in Instambul 
+For this project. I use a database of Kaggle and I change some parts of the database. In this case, I use the database Cutshop. It´s a database about the most important sales to shopping malls in Istanbul 
 
 ## Data analysis project development steps
 
 ### Part I: Exploring data in the PostgreSQL database using the SQ language:
-  * In this topic I extract of database and load in postgress
+  * In this topic I extract of database and load it in postgress
   * I wrote some queries in SQL that allowed me to find out how the database is composed
   * In the file [part1-2](https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql) are that queries
 ### Part II: Preparation of flat file data for export to other tools
-  * I wrote a query to extract the transaction data from the custshop database.
-  * I created a one table that store the preparation of data with name "customer_shopping"
+  * I wrote a query to extract the transaction data from the cutshop database.
+  * I created a table that stores the preparation of data with the name "customer_shopping"
    [![parte-2-preparacion-de-datos.png](https://i.postimg.cc/DzPsrGcF/parte-2-preparacion-de-datos.png)](https://postimg.cc/SXjJqJ5t)
   * The query is in the document called [part1-2](https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql)
-
 ### Part III: Creating a data model with Excel Power Query
-  * Base de colaboradores que entraron al programa de mejora por bajo desempeño o alguna indiciplina.
-  * Nro de veces que entro al prorama de mejora
+  * Using the (customer_shopping.csv) file as data source to create a table (query object) in the Power Pivot data model.
+  * Create a Calendar table in a separate Excel file, and include the following columns:
+[![columnas-tabla-calendario.png](https://i.postimg.cc/1zxfsrMX/columnas-tabla-calendario.png)](https://postimg.cc/gxDYKRCb)
+  * 
 ### 4. Memorandum
   * Lista de memorandums aplicados a los colaboradores por diferentes tipos de falta
   * Nro de Memoradums que tiene el colaborador
