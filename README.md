@@ -13,8 +13,9 @@ For this project. I use a database of kaggle and I change some parts of the data
 ### Part II: Preparation of flat file data for export to other tools
   * I wrote a query to extract the transaction data from the custshop database.
   * I created a one table that store the preparation of data with name "customer_shopping"
+   [![parte-2-preparacion-de-datos.png](https://i.postimg.cc/DzPsrGcF/parte-2-preparacion-de-datos.png)](https://postimg.cc/SXjJqJ5t)
   * The query is in the document called [part1-2](https://github.com/GQ241297/DA-GQ/blob/master/Parte%201-2.sql)
-  * [![parte-2-preparacion-de-datos.png](https://i.postimg.cc/DzPsrGcF/parte-2-preparacion-de-datos.png)](https://postimg.cc/SXjJqJ5t)
+
 ### Part III: Creating a data model with Excel Power Query
   * Base de colaboradores que entraron al programa de mejora por bajo desempeño o alguna indiciplina.
   * Nro de veces que entro al prorama de mejora
