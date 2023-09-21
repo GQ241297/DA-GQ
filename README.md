@@ -40,5 +40,7 @@ For this project. I use a database of Kaggle and I change some parts of the data
     `Sales of the "Books" category in the "Forum Istanbul" shopping center decreased slightly by 1.6% in 2022 compared to the previous year's sales. However, the sales team claims that in 2022 the number of books sold actually increased compared to the previous year.`
   * I verify if the statement is correct and explain why sales would have declined despite more units being sold in 2022
   * This analysis can be found in the file [Proyecto Data Model](https://github.com/GQ241297/DA-GQ/blob/master/Proyecto%20Data%20Model.xlsx) on sheet 4.
+### Part VI: Dashboard in Power Bi
+  * In this part, I created a dashboard of a specific mall next to the link I will explain with more details [Power BI](https://www.novypro.com/project/kanyon-shopping-mall-istanbul---sales-dashboard---power-bi)
 
 
